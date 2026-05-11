@@ -49,3 +49,7 @@ frontend/.env
 gwtm-helm/values-secrets.yaml
 
 deneme 
+
+# Logging Configuration
+LOG_LEVEL=info
+LOG_FORMAT=json
